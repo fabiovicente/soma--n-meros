@@ -1,2 +1,2 @@
-# soma--n-meros
+# soma-números
 estudos
